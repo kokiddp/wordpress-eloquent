@@ -13,7 +13,7 @@
             "email": "drewjbartlett@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "master",
     "require": {
         "php": ">=7.4",
         "illuminate/database": "^8.81"
